@@ -28,9 +28,7 @@ The following functions are not required but enhance token usability:
 - `decimals`: Returns the number of decimals of the token.
 - `symbol`: Reads the symbol of the token.
 
-### Composition of the project
-
-Contracts:
+### Contracts of the project
 
 - `SybilToken.sol`: contract of the token, the initial supply is 1,000,000,000 tokens The supply will be  reduced every 24hrs by the burner contract until it reaches the target supply of to 500,000,000 tokens. This token is ERC-20 compliant.
 
