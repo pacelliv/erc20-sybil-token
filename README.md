@@ -72,7 +72,7 @@ yarn hardhat deploy
 
 ### Test
 
-Extensive and comprehenvise unit tests against the contract of this project has been provided. To see them run the following command:
+Extensive and comprehensive unit tests against the contracts of this project has been provided. Run:
 ```
 yarn hardhat test
 ```
