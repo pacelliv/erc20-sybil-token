@@ -30,13 +30,13 @@ The following functions are not required but enhance token usability:
 
 ### Composition of the project
 
-A. Contracts:
+Contracts:
 
 - `SybilToken.sol`: contract of the token, the initial supply is 1,000,000,000 tokens The supply will be  reduced every 24hrs by the burner contract until it reaches the target supply of to 500,000,000 tokens. This token is ERC-20 compliant.
 
 - `SybilFaucet.sol`: Allots 10 SYL tokens per request every 10 minutes.
 
-- `SybilBurner.sol`: Using [Chainlink Automation](https://chain.link/automation), this contract removes 10,000 tokens from circulation every 24hrs.
+- `SybilBurner.sol`: Using [Chainlink Automation](https://chain.link/automation), this contract removes 137,000 tokens from circulation every 24hrs.
 
 ## Quick Start
 
