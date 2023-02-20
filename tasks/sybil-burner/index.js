@@ -1,0 +1,5 @@
+exports.amount = require("./set-burning-amount")
+exports.interval = require("./set-burning-interval")
+exports.burner = require("./approve-burner")
+exports.readBurningAmount = require("./read-burning-amount")
+exports.readBurningInterval = require("./read-burning-interval")
