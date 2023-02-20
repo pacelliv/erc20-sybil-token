@@ -1,6 +1,6 @@
 # ERC-20 Sybil Token
 
-### ⚡️⚡️ Live Demo: https://odd-cloud-3941.on.fleek.co/
+### ⚡️⚡️ Live Site: https://odd-cloud-3941.on.fleek.co/
 
 ### ⚡️⚡️ ipfs://Qmd4PwrMdpkqbqmmYbBA1pTEaeCC8Rw1VCoMVtuAEReEwL
 
