@@ -1,5 +1,9 @@
 # ERC-20 Sybil Token
 
+### ⚡️⚡️ Live Demo: https://odd-cloud-3941.on.fleek.co/
+
+### ⚡️⚡️ ipfs://Qmd4PwrMdpkqbqmmYbBA1pTEaeCC8Rw1VCoMVtuAEReEwL
+
 ## Overview
 
 An ERC-20 is the technical standard for fungible tokens in the Ethereum blockchain, a fungible token is interchangeable with another tokens. By following standards tokens have a property that makes them exactly the same.
